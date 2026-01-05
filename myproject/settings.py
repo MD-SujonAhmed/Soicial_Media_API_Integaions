@@ -30,6 +30,7 @@ INSTALLED_APPS = [
     'users',
     'Messages',
     'rest_framework',
+    'notifications'
 ]
 
 MIDDLEWARE = [
